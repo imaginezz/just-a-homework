@@ -1,6 +1,6 @@
 {include file='../layouts/header.tpl'}
-<script src="vendor/bower/angular/angular.js"></script>
-<script src="vendor/bower/angular-file-upload/dist/angular-file-upload.min.js"></script>
+<script src="vendor/bower-asset/angular/angular.js"></script>
+<script src="vendor/bower-asset/angular-file-upload/dist/angular-file-upload.min.js"></script>
 <script src="script/profile.js"></script>
 <link rel="stylesheet" href="css/profile.css">
 {literal}

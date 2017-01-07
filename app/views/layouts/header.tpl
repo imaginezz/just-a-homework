@@ -5,9 +5,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" href="vendor/bower/bootstrap/dist/css/bootstrap.min.css">
-    <script src="vendor/bower/jquery/dist/jquery.min.js"></script>
-    <script src="vendor/bower/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="vendor/bower-asset/bootstrap/dist/css/bootstrap.min.css">
+    <script src="vendor/bower-asset/jquery/dist/jquery.min.js"></script>
+    <script src="vendor/bower-asset/bootstrap/dist/js/bootstrap.min.js"></script>
 
     <script src="script/app.js"></script>
     <title>Yet Another Site</title>
